@@ -1,0 +1,8 @@
+<div class="m-search" spa-widget="scroll" data-scroll-id="fxScroll">
+	<div>
+		<div class="m-search-header"></div>
+		<div class="m-search-fixed"></div>
+		<div class="m-search-content"></div>
+	</div>
+</div>
+ 

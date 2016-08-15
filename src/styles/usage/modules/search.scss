@@ -1,0 +1,27 @@
+.m-search{
+	width:100%;
+	height:100%;
+	.m-search-header{
+		width:100%;
+		height:2rem;
+		background:yellow;
+	}
+	.m-search-fixed{
+		width:100%;
+		height:0.5rem;
+		background:#abcdef;
+	}
+	.m-search-content{
+		width:100%;
+		height:2000px;
+		background:green;
+	}
+}
+.fixed{
+	width: 100%;
+	height: 0.5rem;
+	background: #abcdef;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}

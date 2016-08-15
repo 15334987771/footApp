@@ -1,0 +1,28 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [{
+    "img": "/app/images/img1.jpg",
+    "title": "小丸子1"
+  }, {
+    "img": "/app/images/img2.jpg",
+    "title": "小丸子2"
+  }, {
+    "img": "/app/images/img3.jpg",
+    "title": "小丸子3"
+  }, {
+    "img": "/app/images/img4.jpg",
+    "title": "小丸子4"
+  }, {
+    "img": "/app/images/img1.jpg",
+    "title": "小丸子5"
+  }, {
+    "img": "/app/images/img2.jpg",
+    "title": "小丸子6"
+  }, {
+    "img": "/app/images/img3.jpg",
+    "title": "小丸子7"
+  }]
+}

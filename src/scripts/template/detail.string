@@ -1,0 +1,16 @@
+<div class="box">
+	<header>
+		<h2 class="title">带返回按钮的头部</h2>
+    	<span class="left"><</span>
+    	<span class="right">设置</span>
+	</header> 
+	<section class="main">
+		<div>
+			<img src="./images/img1.jpg">
+			<p>小丸子小娃子</p>
+		</div>
+		<div class="yo-loading">
+    		<div class="inner"><i class="yo-ico"></i></div>
+		</div>
+	</section>  
+</div>

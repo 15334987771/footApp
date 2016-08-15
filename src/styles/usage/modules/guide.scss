@@ -1,0 +1,19 @@
+#guide-swiper{
+	width: 100%;
+	height: 100%;
+	img{
+		width: 100%;
+		height: 100%;
+	}
+	.swiper-slide:last-child{
+		p{
+			width: 27%;
+			height:.24rem;
+			position: absolute;
+			right: 20%;
+			bottom: 12%;
+			z-index:99999;
+			
+		}
+	}
+}
